@@ -1,0 +1,9 @@
+{
+  "source_files": 67,
+  "files": 73,
+  "syntax": "pass",
+  "secret_pattern_findings": [],
+  "production_identifiers_replaced": 14,
+  "runtime_and_installer_rebuild": "not_verified",
+  "published": false
+}

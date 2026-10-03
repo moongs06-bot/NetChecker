@@ -1,0 +1,298 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "6ac12fa9e6a5bb732df848735184a4f32e741d80cd91a26c77d9f3e8e7a82a41"
+  },
+  {
+    "path": "agent_runner.py",
+    "sha256": "66b7e7aeb36b55669fa8343c61d077b9dc773fe6d3a05406a059a5bf91d8a331"
+  },
+  {
+    "path": "agent_work_logs.py",
+    "sha256": "551a8019c31399243b2aa7d36883c669d0ae61aa298bd6ea5c58b103903d1216"
+  },
+  {
+    "path": "collector/Actions-Defender.ps1",
+    "sha256": "74b327df5553005f8a164eaaf60aa9ad81fa93d9abf6d84d71cc28716c61db8b"
+  },
+  {
+    "path": "collector/Collector-Defender.ps1",
+    "sha256": "2ca48b49ca2187c6bb4660ffbbfdce4ec4fde7b9aa1f7ae44745ffe4369c9315"
+  },
+  {
+    "path": "collector/Collector-Server.ps1",
+    "sha256": "3e3a739c3b89bbd5cb71ee2adac427c9f0c7f5e38bf2fc545739b912bab02a33"
+  },
+  {
+    "path": "collector/Collector.ps1",
+    "sha256": "d316cc35d5c3d8ed423dd33c21ff6c8806ba8856272932ddb579092ec0923f24"
+  },
+  {
+    "path": "collector/Install-Defender.ps1",
+    "sha256": "d5cad771bae15af0d890cdcfeda1fa01131606ca47dd17aba26603867d7145f1"
+  },
+  {
+    "path": "collector/Install-NetChecker.ps1",
+    "sha256": "9a7725a1d1d8d58f1a2883c2421e0c0addbac494a3effb853d8997f40cd5e16d"
+  },
+  {
+    "path": "collector/Inventory-Defender.ps1",
+    "sha256": "b041df592bcb4618036ac138249a3a051f688f1a6269abd41c8d9ad1e82d1d85"
+  },
+  {
+    "path": "collector/Read-PortEvents.ps1",
+    "sha256": "32ded890e48ccf8520ef8084a7778674fe24e446ef514ee7c8ea8e8287b00b35"
+  },
+  {
+    "path": "collector/Scan-Defender.ps1",
+    "sha256": "2a0d8f5b88b4771b2f0062f72c8a68b1fb36536e9092064635e502607ec049ea"
+  },
+  {
+    "path": "collector/Uninstall-Defender.ps1",
+    "sha256": "e1c0460980e8cf80ff1be9d62296d2e5fc48bd931aae23807ee4cde2f43d72a3"
+  },
+  {
+    "path": "collector/Uninstall-NetChecker.ps1",
+    "sha256": "4b025cd2b2e7deb364207ccde6925fed844235821876e280b479d393841d6099"
+  },
+  {
+    "path": "config.example.json",
+    "sha256": "002791137189c391c648d44cded09e892a219c8af886bc474759f2a068472195"
+  },
+  {
+    "path": "daily_crew.py",
+    "sha256": "2f5bd237caedc9e0221f63586c971e97ee8fcd75b063b67ec7a720d8aedec645"
+  },
+  {
+    "path": "dashboard.html",
+    "sha256": "7f46eafb91dbf9e31d35f34c0351ce0bf534a2bf5d09460567a71cea9348e9f8"
+  },
+  {
+    "path": "defender_actions.py",
+    "sha256": "88f42536513c2d0312986e2365ebf81d19d5962535279ff2e97155bc1b7b8370"
+  },
+  {
+    "path": "defender_advisories.py",
+    "sha256": "765914505ef887aa173ee06b735626087f9887a6da6c226601868ab0d96d0d35"
+  },
+  {
+    "path": "defender_daily.py",
+    "sha256": "4136976f7a4650fb748e26a4ca778da08d78c2db605593feb013b85e043e6fe4"
+  },
+  {
+    "path": "display_utils.py",
+    "sha256": "9f9b71a67fdf63c1018f4050156d02dcc8d3538dbe315d8aff7f323592b4c02d"
+  },
+  {
+    "path": "flow/Build-Flow.ps1",
+    "sha256": "d3930bf36111a0952710cf5843331c14d2b87872116d2de792b9ef562734f2e3"
+  },
+  {
+    "path": "flow/NetChecker.Flow.csproj",
+    "sha256": "8b136ffff1f7c6d0d227467c527d13ce47647ce19e7b2fe63d1f9a540fb7c6a7"
+  },
+  {
+    "path": "flow/Program.cs",
+    "sha256": "f56eb1344f5eb9d0a9246d5720bfe1ea2d7df3eeb04b5a54b33aebff406d0093"
+  },
+  {
+    "path": "installer/app.manifest",
+    "sha256": "4d46fe6ccd4966ce204e34f71d03aca271c80f36f990c84a09c987967aa4d6cd"
+  },
+  {
+    "path": "installer/Build-Defender.ps1",
+    "sha256": "6c405b0b82c7c7357274b7112d20f761b5f9d26c1257093007343ab87b13695a"
+  },
+  {
+    "path": "installer/Build-Server.ps1",
+    "sha256": "cfe8cf43b668ede6187d5ddba5c5248bb9a6ccc0b2ca89e76dca26fa695f5acb"
+  },
+  {
+    "path": "installer/Build.ps1",
+    "sha256": "61ebb8871bc372dfe08255fb7faf0fc56a72ea6f31301b361dd2b956c3328c5f"
+  },
+  {
+    "path": "installer/DefenderApp.cs",
+    "sha256": "e8e1a52237213da96aa3fe83de3cc594fa1f133b578dabe2bcfe289a9a2389d7"
+  },
+  {
+    "path": "installer/Setup-Defender.cs",
+    "sha256": "7f9962f9c48778dca056c3167b49517c07b2b6568b397ed40a14f848e1df46b0"
+  },
+  {
+    "path": "installer/Setup-Server.cs",
+    "sha256": "784e7a09ccf19cae5df6a8e786a81bbe5ffdc8bff82aa0743ea353dbf15cd329"
+  },
+  {
+    "path": "installer/Setup.cs",
+    "sha256": "00f3dbe14717974c863be6b17e73e234cd8025b89fb2e3f8ebed17e08288c23b"
+  },
+  {
+    "path": "integrations.py",
+    "sha256": "57493d751c21913bb354e94c575b4434398c83ec42053d85021c079ca619c578"
+  },
+  {
+    "path": "kakao_recipient.py",
+    "sha256": "3c47f41edfb50b17fb11f19da396a6ba66827aea0c6d9cbc4b6eaf746190ec19"
+  },
+  {
+    "path": "live-monitor.css",
+    "sha256": "18c4b6749c2cd9efd45d766330230881a9f906ede07e024438043d8ad7111fb6"
+  },
+  {
+    "path": "live-monitor.js",
+    "sha256": "5bc8eec043c6647f2bd5c7a37ec528ec839257e031ea6197df448267cd2f5490"
+  },
+  {
+    "path": "live_monitor.py",
+    "sha256": "e045f25403aeb201013ee94ce9593264da36ba2335716b16abab10458c974407"
+  },
+  {
+    "path": "login.html",
+    "sha256": "8806513a0d13902dde2ad75a969fcd0f401e35aba2c3f3bc2ba6d09d8517f283"
+  },
+  {
+    "path": "network_agent.py",
+    "sha256": "08bb47fb5ce2701c0f8b4ba733874629a01abb45702bf78967af4e956900830d"
+  },
+  {
+    "path": "network_analysis.py",
+    "sha256": "7ad3f3b3273f28b8cf46ce73c5c8a59f4457dd73574af81e91826d011d16e0ff"
+  },
+  {
+    "path": "pdf_report.py",
+    "sha256": "7be5b31b582e7cc3b8c82617a1b51f3cbf310893c30914ca44b2e7eb5806059e"
+  },
+  {
+    "path": "pdf_server_report.py",
+    "sha256": "7003602879d51b3c0a0d8e7c5302d2e4706975069c3f2802df58d9bac607e05b"
+  },
+  {
+    "path": "portal.css",
+    "sha256": "6b5b996f8017160452e46522ee419c43d05f7f2b1bba340010fa2cb6f55f2f26"
+  },
+  {
+    "path": "portal.js",
+    "sha256": "e097ad5f23caec5e6bea2dbc3a2e3e8297f2862a4fd0c42bfb287dce8fb3ccef"
+  },
+  {
+    "path": "portal_auth.py",
+    "sha256": "a9ee02b01b42467bc2c238c0dd4a83290c0078762b9354facbb83575adc5e50c"
+  },
+  {
+    "path": "PUBLIC_PREPARATION_REPORT.json",
+    "sha256": "a5bd1f9397d948be23ddf38174b89b6f180fc5974e50a414506499022f536452"
+  },
+  {
+    "path": "PUBLIC_RELEASE_CHECKLIST.md",
+    "sha256": "66d28e1f28296de4097f09e4a0cef38e918dabcfe20e5415326aaf902efc34c7"
+  },
+  {
+    "path": "README-Defender.md",
+    "sha256": "28618b77726fd5ae25b31eaea2e5ee067f296742fc7146437456c2b4acbaad77"
+  },
+  {
+    "path": "README.md",
+    "sha256": "0d57b78be4e7460409547c2f556259429061cc2e9a11a59c903508f19eaa6dc8"
+  },
+  {
+    "path": "report_copy.py",
+    "sha256": "56e5ff1a5d36828e31f8723e55d880e428ffa65f765d00b44f71e129a0763f81"
+  },
+  {
+    "path": "requirements-crew.txt",
+    "sha256": "0e65afb4a76ce47c91d114e3eb176e8185c687fd2b15e3aa557dcab71ac44952"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "ae1f1cac7204aafc5059ee0e03eb1956089333349061fcd473abc29d18d91f5b"
+  },
+  {
+    "path": "security_defender.py",
+    "sha256": "85a041933daa960038c1d5508551f00ac620d1424378115ff4ec693f9bee42b9"
+  },
+  {
+    "path": "server.py",
+    "sha256": "8134825ccd2e4986d84b9e4840cc4ce4298c8412dd212a489a2a9cc5d6d3f46e"
+  },
+  {
+    "path": "server_analytics.py",
+    "sha256": "b91da641bb80d41391966ad64927312ea1cc15b256c19d66ad1aafa9c8a0a0ed"
+  },
+  {
+    "path": "setup_config.py",
+    "sha256": "26df822c1209f60716a97cca467339313fe343d3c3d42738ba1d8b6ba4ea1b67"
+  },
+  {
+    "path": "telemetry_models.py",
+    "sha256": "db06d8fb7c70d479e9a76e02a27a2eabfb7ee3376edc8dabc8840e9dcde297e7"
+  },
+  {
+    "path": "test_daily_crew.py",
+    "sha256": "c94ac96849aa21c8dba6dafe3e757f26641c017ce9e60938f284dbd79afd5586"
+  },
+  {
+    "path": "test_defender.py",
+    "sha256": "db0d65d49c7b6be58674eec97e344dc9aadc5a30f629640dfb149efb069a837d"
+  },
+  {
+    "path": "test_defender_actions.py",
+    "sha256": "976e9dc94ef4d96caad8a171ea7dd3f18800180221f200850a68250536ff2717"
+  },
+  {
+    "path": "test_defender_daily.py",
+    "sha256": "324cfc487577349fcccfc981a5fef54c50a8c209ad9cfcedbaa9643bd0718c6b"
+  },
+  {
+    "path": "test_display_policy.py",
+    "sha256": "28a7ec1f635adede2be9acf663b0a9ccbff121caaca2da7a9ed5e0af699e5bb1"
+  },
+  {
+    "path": "test_kakao_recipient.py",
+    "sha256": "fa8c95afd073e02d0d1f51d2b31e23e69199eef05a7387c0278e66667cee3c6a"
+  },
+  {
+    "path": "test_kakao_share.py",
+    "sha256": "b9e00b61991779e87aa36469d49b2809bc1890b52ff175bbdf3c218c966007bb"
+  },
+  {
+    "path": "test_live_monitor.py",
+    "sha256": "d3233fe212e5425d49192df5dec57f8e6ea5f3d073ec54a279037356c985da95"
+  },
+  {
+    "path": "test_netchecker.py",
+    "sha256": "4119ca607edc1a48aaa7baa872de6208d877474dc616a153631d2a6b890b1df3"
+  },
+  {
+    "path": "test_network_policy.py",
+    "sha256": "ea4e45a4177f404515aab2747157400a0e4554124615184735cd4beedac101a5"
+  },
+  {
+    "path": "test_portal.py",
+    "sha256": "fc01fdbdcd2ae520cf6a7a2f24da00a883128d51d056fb698bc0240980acc663"
+  },
+  {
+    "path": "test_report_delete.py",
+    "sha256": "d6fc17bcf90ff91ca62998310c99c194d33d64b06987703b5a80edab7c6a6958"
+  },
+  {
+    "path": "test_server_v2.py",
+    "sha256": "e6f993e4b9bea63a5266a1f31e4da7ded6747a6e24bbfbbc6b7d8daabe9a8898"
+  },
+  {
+    "path": "test_traffic_ranking.py",
+    "sha256": "67da65a889a7a3c411c94572423db25dfd6aaf3c4a568bd2cfc4c3729b2d4483"
+  },
+  {
+    "path": "THIRD_PARTY.md",
+    "sha256": "916b7bbeb623934847ec81fb7dd143acf4cb5ff5a69528affde2154b4a85ad56"
+  },
+  {
+    "path": "verification.py",
+    "sha256": "1652d29ac7b7d7e37381caf5bda63412eaee66c9852f8c01df3dba812066b57c"
+  },
+  {
+    "path": "verification_agent.py",
+    "sha256": "366784904060fbbfe942e4cb9d947a934bd9a60fc6885482d24505d3c608ed6a"
+  }
+]

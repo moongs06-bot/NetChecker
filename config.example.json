@@ -1,0 +1,9 @@
+{
+  "admin_user": "admin",
+  "admin_salt": "GENERATE_WITH_SETUP",
+  "admin_hash": "GENERATE_WITH_SETUP",
+  "openai_key": "",
+  "agent_id": "",
+  "crewai_python": "./.venv-crew/bin/python",
+  "crewai_model": "openai/gpt-4.1-mini"
+}

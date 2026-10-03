@@ -1,0 +1,2 @@
+# Isolated worker environment; do not install in the portal environment.
+crewai==1.11.0

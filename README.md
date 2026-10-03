@@ -37,6 +37,6 @@ CrewAI 작업 환경은 메인 서버와 분리하여 `requirements-crew.txt`로
 네트워크 수집과 디펜더는 목적과 수집 경로가 분리됩니다. 백신 자체 엔진은 구현하지 않으며 악성코드 검사는 Windows Defender 기능을 호출합니다. 타사 백신이나 권한 부족으로 확인하지 못한 항목을 정상으로 간주하지 않습니다.
 
 ## 라이선스
-팀 소유 소스의 배포 라이선스는 팀 확인 후 선택해야 합니다. 현재 LICENSE 파일을 두지 않았으며 자유 재배포·수정 권한을 부여한 상태가 아닙니다. 외부 라이브러리는 각각의 라이선스를 따릅니다. `THIRD_PARTY.md`와 `PUBLIC_RELEASE_CHECKLIST.md`를 확인하세요.
+팀 소유 소스는 MIT License로 공개합니다. 사용·수정·재배포가 가능하며 저작권 및 라이선스 고지를 유지해야 합니다. 외부 라이브러리는 각각의 라이선스를 따릅니다. `THIRD_PARTY.md`와 `PUBLIC_RELEASE_CHECKLIST.md`를 확인하세요.
 
 PDF 한글 출력은 NanumGothic/NanumGothicBold 시스템 글꼴이 필요합니다. Linux에서는 배포판의 나눔 글꼴 패키지를 설치하세요. 글꼴 바이너리는 포함하지 않았습니다.
